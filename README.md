@@ -5,7 +5,6 @@
 ### Universidade Federal de Roraima - Departamento de Ciência da Computação  
 ### Período: 2025
 
----
 ## Objetivo
 
 Este projeto foi desenvolvido como parte da disciplina **DCC606 - Análise de Algoritmos**, com o objetivo de implementar e analisar **algoritmos aproximados para o problema da coloração de grafos**.
@@ -16,5 +15,3 @@ O projeto inclui:
 - Visualização do grafo com as cores aplicadas.
 - Análise experimental com benchmarks de grafos.
 - Discussão dos resultados obtidos.
-
----
