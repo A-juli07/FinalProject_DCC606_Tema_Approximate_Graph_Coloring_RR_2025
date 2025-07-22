@@ -6,6 +6,7 @@
 ### Período: 2025
 
 ---
+## Objetivo
 
 Este projeto foi desenvolvido como parte da disciplina **DCC606 - Análise de Algoritmos**, com o objetivo de implementar e analisar **algoritmos aproximados para o problema da coloração de grafos**.
 
