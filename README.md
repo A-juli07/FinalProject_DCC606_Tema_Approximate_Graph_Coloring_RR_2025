@@ -1,9 +1,8 @@
 # Coloração Aproximada de Grafos
-## Projeto Final - Análise de Algoritmos - DCC606
 
 ### Professor: Hebert Rocha  
+### Análise de Algoritmos - DCC606
 ### Universidade Federal de Roraima - Departamento de Ciência da Computação  
-### Período: 2025
 
 ## Objetivo
 
