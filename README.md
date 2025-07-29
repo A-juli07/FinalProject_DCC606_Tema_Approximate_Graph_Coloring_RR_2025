@@ -8,6 +8,13 @@
 
 Este projeto foi desenvolvido como parte da disciplina **DCC606 - Análise de Algoritmos**, com o objetivo de implementar e analisar **algoritmos aproximados para o problema da coloração de grafos**.
 
+## Como rodar o projeto 
+
+Clone o repositorio do GitHub
+'''bash 
+git clone 
+'''
+
 O projeto inclui:
 - Análise e descrição do artigo **"Approximate Graph Coloring by Semidefinite Programming"** (Karger, Motwani, Sudan - 1998). FEITO
 - Implementação de **duas soluções aproximadas** para coloração de grafos. EM DESENVOLVIMENTO
