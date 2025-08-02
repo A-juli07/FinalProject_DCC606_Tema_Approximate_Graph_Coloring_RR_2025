@@ -6,14 +6,12 @@ typedef struct {
     int** adjMatrix;
 } Graph;
 
-// Funções básicas do grafo
 Graph* createGraph(int numVertices);
 void freeGraph(Graph* graph);
 void addEdge(Graph* graph, int v, int w);
 Graph* loadGraphFromFile(const char* filename);
 void saveColoringToFile(const char* filename, int* colors, int numVertices, double time, int numColors);
 
-// Declarações dos algoritmos
 int* dsaturColoring(Graph* graph, double* timeSpent);
 int* rlfColoring(Graph* graph, double* timeSpent);
 
