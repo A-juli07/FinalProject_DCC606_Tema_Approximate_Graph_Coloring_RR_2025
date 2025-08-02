@@ -61,4 +61,9 @@ O projeto inclui:
 - Implementação de **duas soluções aproximadas** para coloração de grafos. EM DESENVOLVIMENTO
 - Visualização do grafo com as cores aplicadas. EM DESENVOLVIMENTO
 - Análise experimental com benchmarks de grafos. EM DESENVOLVIMENTO
-- Discussão dos resultados obtidos. A FAZER
+- Discussão dos resultados obtidos. EM DESENVOLVIMENTO
+
+## Autores
+
+Ana Julia Vieira P.A. Costa e
+Gabriel Menezes
